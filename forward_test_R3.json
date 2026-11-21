@@ -348,9 +348,10 @@
   "us10y_chg_bp": -1.8,
   "signal": false,
   "rule": "R3_v1_2026-10-19",
-  "entry": null,
-  "exit": null,
-  "pips": null,
-  "status": "pending"
+  "entry": 159.41,
+  "exit": 159.383,
+  "pips": -2.7,
+  "status": "done",
+  "n_bars": 48
  }
 ]
