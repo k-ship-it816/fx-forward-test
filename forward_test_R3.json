@@ -353,5 +353,18 @@
   "pips": -2.7,
   "status": "done",
   "n_bars": 48
+ },
+ {
+  "date": "2026-11-23",
+  "logged_at_jst_hour": 8,
+  "official": false,
+  "sp_chg_pct": -3.699,
+  "us10y_chg_bp": -14,
+  "signal": false,
+  "rule": "R3_v1_2026-10-19",
+  "entry": null,
+  "exit": null,
+  "pips": null,
+  "status": "pending"
  }
 ]
